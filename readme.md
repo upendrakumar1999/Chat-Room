@@ -27,7 +27,7 @@ Follow the instructions below to set up the environment and run this project on 
 1.  Download ZIP or clone this repo
 
 ```
-> git clone https://github.com/Mehulcoder/Chat-Application.git
+> git clone https://git@github.com:upendrakumar1999/Chat-Room.git
 ```
 
 2.  Install dependencies via NPM
